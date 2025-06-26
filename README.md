@@ -21,4 +21,5 @@ CMake:
 2. https://www.sfml-dev.org/tutorials/2.6/compile-with-cmake.php
 
 This project was created using the SFML library!
+
 At the moment this project only supports Latin!
